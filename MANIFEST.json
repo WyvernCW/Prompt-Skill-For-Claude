@@ -1,0 +1,100 @@
+{
+  "name": "Prompt Protocol",
+  "version": "12.0",
+  "description": "Self-evolving 10-agent consensus prompt engineering with persistent memory via window.storage, prompt genealogy, domain modules, model adapters, output contract validation, and no-AI-slop frontend design",
+  "author": "User",
+  "entry": "SKILL_BOOT.md",
+  "files": [
+    "SKILL_BOOT.md",
+    "SKILL.md",
+    "AGENT_COUNCIL.md",
+    "AUTONOMOUS_LOOP.md",
+    "MEMORY_SYSTEM.md",
+    "GENEALOGY_TRACKER.md",
+    "DOMAIN_MODULES.md",
+    "MODEL_ADAPTERS.md",
+    "OUTPUT_CONTRACTS.md",
+    "FRONTEND_GUIDE.md",
+    "PROMPT_TEMPLATES.md",
+    "ADVANCED_TECHNIQUES.md",
+    "REFERENCE.md",
+    "EXAMPLES.md",
+    "MANIFEST.json"
+  ],
+  "changelog": [
+    {
+      "version": "12.0",
+      "date": "2026-05-01",
+      "changes": [
+        "Added 10th Engineer agent to council (code quality, DRY, SOLID)",
+        "Added SKILL_BOOT.md ultra-compressed entry point",
+        "Added Prompt Genealogy system with revert/branch/merge/compare",
+        "Added Domain Module system (fintech, medical, legal, gaming, ecommerce, security, edu, creative)",
+        "Added Model Compatibility Layer (claude, gpt4o, gemini, llama3, mistral)",
+        "Added Output Contract Validation for structured outputs",
+        "Added window.storage persistent memory support",
+        "Added changelog array to manifest",
+        "Revised agent conflict resolution priority",
+        "Expanded MANIFEST.json with all capability flags"
+      ]
+    },
+    {
+      "version": "11.0",
+      "date": "2026-04-30",
+      "changes": [
+        "Added 9-agent collaboration with weighted voting",
+        "Added real autonomous loop with perfection engine",
+        "Added persistent memory system",
+        "Added self-evolving skill capability",
+        "Added frontend no-AI-slop protocol"
+      ]
+    }
+  ],
+  "tags": [
+    "prompt-engineering",
+    "token-efficiency",
+    "code-generation",
+    "design-framework",
+    "consensus-system",
+    "frontend",
+    "no-ai-slop",
+    "ui-ux",
+    "multi-agent",
+    "self-evolving",
+    "persistent-memory",
+    "autonomous",
+    "genealogy",
+    "domain-modules",
+    "model-adapters",
+    "output-contracts"
+  ],
+  "compatibility": {
+    "claude.ai": ">=1.0",
+    "claude-desktop": ">=1.0",
+    "claude-code": ">=0.1"
+  },
+  "settings": {
+    "boot_loader": "SKILL_BOOT.md",
+    "caveman_default": "full",
+    "consensus_personas": 10,
+    "max_consensus_rounds": 3,
+    "consensus_threshold": 70,
+    "consensus_lock_threshold": 90,
+    "adversarial_testing": true,
+    "meta_cognitive_tracking": true,
+    "recursive_refinement": true,
+    "frontend_design": true,
+    "no_ai_slop": true,
+    "persistent_memory": true,
+    "memory_storage": "window.storage",
+    "multi_agent_collaboration": true,
+    "autonomous_loop": true,
+    "max_autonomous_cycles": 10,
+    "autonomous_strategies": 10,
+    "prompt_genealogy": true,
+    "domain_modules": true,
+    "model_adapters": true,
+    "output_contracts": true,
+    "skill_evolution": true
+  }
+}
